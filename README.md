@@ -1,5 +1,5 @@
 # Võro (vro)
-Contains Võro paradigms (verbs)
+Contains Võro paradigms (nouns)
 
 Native speakers: ~74,500 (2011)
 
