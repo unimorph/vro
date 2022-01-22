@@ -11,7 +11,7 @@ Source:
 Watch the talk about Võro by Iva: [https://www.youtube.com/watch?v=cE2hYivITrk](https://www.youtube.com/watch?v=cE2hYivITrk)
 
 ## Annotators
-Elena Klyachko
+Ekaterina Vylomova
 
 ## Paradigm Samples
 TBA
